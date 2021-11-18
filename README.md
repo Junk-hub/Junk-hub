@@ -14,4 +14,5 @@ Languages and Tools
 ![QT](https://img.shields.io/badge/QT-brightgreen?style=for-the-badge&logo=0)
 
 ### Contacts
+
 ![VK](https://img.shields.io/badge/VK-informational?style=for-the-badge&logo=VK=white)
