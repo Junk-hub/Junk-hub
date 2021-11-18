@@ -17,3 +17,6 @@
 
 [![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColour=white)](https://vk.com/junkeed)
 [![Telegram](https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColour=white)](https://t.me/Toxic_Ilyxa)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junk-hub&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
