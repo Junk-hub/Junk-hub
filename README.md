@@ -13,5 +13,5 @@ Languages and Tools
 ![C++](https://img.shields.io/badge/C++-yellow?style=for-the-badge&logo=C%2b%2b&logoColour=6296CC)
 ![QT](https://img.shields.io/badge/QT-brightgreen?style=for-the-badge&logo=0)
 
-###Contacts
+### Contacts
 ![VK](https://img.shields.io/badge/VK-informational?style=for-the-badge&logo=VK=white)
