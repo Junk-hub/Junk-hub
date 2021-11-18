@@ -20,9 +20,4 @@
 
 ### Some stats
 
-
-<html>
-<body>
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junk-hub&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) </p>
-</body>
-</html>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junk-hub&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
