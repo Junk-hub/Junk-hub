@@ -15,4 +15,5 @@ Languages and Tools
 
 ### Contacts
 
-![VK](https://img.shields.io/badge/VK-informational?style=for-the-badge&logo=VK=white)
+![VK](https://img.shields.io/badge/VK-informational?style=for-the-badge&logo=VK&logoColour=white)
+![Telegram](https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColour=white)
