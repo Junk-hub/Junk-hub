@@ -15,5 +15,5 @@ Languages and Tools
 
 ### Contacts
 
-[![VK](https://img.shields.io/badge/VK-9cf?style=for-the-badge&logo=VK&logoColour=white)](https://vk.com/junkeed)
+[![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColour=white)](https://vk.com/junkeed)
 ![Telegram](https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColour=white)
