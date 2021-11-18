@@ -1,12 +1,12 @@
 [![Header](https://github.com/Junk-hub/Junk-hub/blob/main/assets/264315.jpeg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## I'm a student from Russia.
+## I'm a student from Russia
 
-- 🔭 I’m currently working on mobile app for financial accounting.
-- 🌱 I’m currently learning Java, C++, Flutter + Dart.
-- 🤔 I’m looking for help with everything.
+- 🔭 I’m currently working on mobile app for financial accounting
+- 🌱 I’m currently learning Java, C++, Flutter + Dart
+- 🤔 I’m looking for help with everything
 
-Languages and Tools
+### Languages and Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColour=white)
 ![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=dart&logoColour=097CDB)
@@ -16,4 +16,4 @@ Languages and Tools
 ### Contacts
 
 [![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColour=white)](https://vk.com/junkeed)
-![Telegram](https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColour=white)
+[![Telegram](https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColour=white)](https://t.me/Toxic_Ilyxa)
